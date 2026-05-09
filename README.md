@@ -8,7 +8,7 @@ A login form with a black theme.
 - CSS3 (Transitions, Flexbox, Hover effects)
 
 ## File Structure
-- [HTML File 📂](loding.html)
-- [CSS File 📂](loding.css)
+- [HTML File 📂](login.html)
+- [CSS File 📂](login.css)
 ---
-![ScreenShot page](loding.png)
+![ScreenShot page](login.png)
